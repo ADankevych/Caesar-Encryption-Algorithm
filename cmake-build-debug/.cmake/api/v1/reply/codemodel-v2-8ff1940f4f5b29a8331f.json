@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProgPar_Assignment3_Caesar_Encryption_Algorithm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProgPar_Assignment3_Caesar_Encryption_Algorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProgPar_Assignment3_Caesar_Encryption_Algorithm-Debug-0a4ed52d1efa22eb4796.json",
+					"name" : "ProgPar_Assignment3_Caesar_Encryption_Algorithm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/anastasia_d/CLionProjects/ProgPar-Assignment3-Caesar-Encryption-Algorithm/cmake-build-debug",
+		"source" : "/Users/anastasia_d/CLionProjects/ProgPar-Assignment3-Caesar-Encryption-Algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
